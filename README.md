@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning LLMs and Reinforcement Learning.
+- 👯 I’m looking to collaborate on [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/)
+- 💬 Ask me about NLP and RL.
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJJJerry)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JJJJerry/JJJJerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
